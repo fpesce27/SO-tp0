@@ -1,0 +1,263 @@
+[INFO] 01:55:46:237 Servidor/(6966:6966): Servidor listo para recibir al cliente
+[INFO] 01:55:46:237 Servidor/(6966:6966): Se conecto un cliente!
+[ERROR] 01:55:46:237 Servidor/(6966:6966): el cliente se desconecto. Terminando servidor
+[INFO] 01:55:53:903 Servidor/(7019:7019): Servidor listo para recibir al cliente
+[INFO] 01:55:53:903 Servidor/(7019:7019): Se conecto un cliente!
+[ERROR] 01:55:53:903 Servidor/(7019:7019): el cliente se desconecto. Terminando servidor
+[INFO] 01:57:32:137 Servidor/(7120:7120): Servidor listo para recibir al cliente
+[INFO] 01:57:32:137 Servidor/(7120:7120): Se conecto un cliente!
+[ERROR] 01:57:32:137 Servidor/(7120:7120): el cliente se desconecto. Terminando servidor
+[INFO] 02:05:46:240 Servidor/(7767:7767): Servidor listo para recibir al cliente
+[INFO] 02:05:46:240 Servidor/(7767:7767): Se conecto un cliente!
+[INFO] 02:07:28:175 Servidor/(7821:7821): Servidor listo para recibir al cliente
+[INFO] 02:07:28:175 Servidor/(7821:7821): Se conecto un cliente!
+[INFO] 17:57:53:298 Servidor/(2623:2623): Servidor listo para recibir al cliente
+[INFO] 17:57:53:299 Servidor/(2623:2623): Se conecto un cliente!
+[INFO] 18:01:51:906 Servidor/(3089:3089): Servidor listo para recibir al cliente
+[INFO] 18:01:51:906 Servidor/(3089:3089): Se conecto un cliente!
+[INFO] 18:02:41:035 Servidor/(3141:3141): Servidor listo para recibir al cliente
+[INFO] 18:02:41:035 Servidor/(3141:3141): Se conecto un cliente!
+[INFO] 20:48:46:386 Servidor/(2324:2324): Servidor listo para recibir al cliente
+[ERROR] 20:48:46:387 Servidor/(2324:2324): Error al aceptar la conexion del cliente.
+[INFO] 20:59:58:389 Servidor/(3881:3881): Servidor listo para recibir al cliente
+[ERROR] 20:59:58:389 Servidor/(3881:3881): Error al aceptar la conexion del cliente.
+[INFO] 21:07:58:768 Servidor/(4170:4170): Servidor listo para recibir al cliente
+[ERROR] 21:07:58:768 Servidor/(4170:4170): Error al aceptar la conexion del cliente.
+[INFO] 21:14:15:633 Servidor/(4336:4336): Servidor listo para recibir al cliente
+[INFO] 21:14:30:699 Servidor/(4336:4336): Se conecto un cliente!
+[INFO] 21:23:32:378 Servidor/(4755:4755): Servidor listo para recibir al cliente
+[INFO] 21:23:36:995 Servidor/(4755:4755): Se conecto un cliente!
+[INFO] 21:26:56:347 Servidor/(4924:4924): Servidor listo para recibir al cliente
+[INFO] 21:27:22:580 Servidor/(4924:4924): Se conecto un cliente!
+[INFO] 21:45:32:456 Servidor/(5241:5241): Servidor listo para recibir al cliente
+[INFO] 21:45:37:608 Servidor/(5241:5241): Se conecto un cliente!
+[ERROR] 21:45:37:608 Servidor/(5241:5241): el cliente se desconecto. Terminando servidor
+[INFO] 22:10:19:074 Servidor/(5799:5799): Servidor listo para recibir al cliente
+[INFO] 22:10:40:051 Servidor/(5799:5799): Se conecto un cliente!
+[ERROR] 22:10:40:051 Servidor/(5799:5799): el cliente se desconecto. Terminando servidor
+[INFO] 22:16:55:541 Servidor/(6088:6088): Servidor listo para recibir al cliente
+[INFO] 22:17:10:027 Servidor/(6088:6088): Se conecto un cliente!
+[ERROR] 22:17:10:027 Servidor/(6088:6088): el cliente se desconecto. Terminando servidor
+[INFO] 22:18:02:158 Servidor/(6192:6192): Servidor listo para recibir al cliente
+[INFO] 22:18:06:859 Servidor/(6192:6192): Se conecto un cliente!
+[INFO] 22:18:06:859 Servidor/(6192:6192): Me llego el mensaje valor
+[ERROR] 22:18:06:859 Servidor/(6192:6192): el cliente se desconecto. Terminando servidor
+[INFO] 22:19:21:088 Servidor/(6316:6316): Servidor listo para recibir al cliente
+[INFO] 22:19:34:643 Servidor/(6316:6316): Se conecto un cliente!
+[INFO] 22:19:34:643 Servidor/(6316:6316): Me llego el mensaje valor
+[INFO] 22:19:46:342 Servidor/(6316:6316): Me llegaron los siguientes valores:
+
+[INFO] 22:19:46:342 Servidor/(6316:6316): CLAVE
+[ERROR] 22:19:46:424 Servidor/(6316:6316): el cliente se desconecto. Terminando servidor
+[INFO] 22:21:13:369 Servidor/(6461:6461): Servidor listo para recibir al cliente
+[INFO] 22:21:21:258 Servidor/(6461:6461): Se conecto un cliente!
+[INFO] 22:21:21:258 Servidor/(6461:6461): Me llego el mensaje valor
+[ERROR] 22:21:21:339 Servidor/(6461:6461): el cliente se desconecto. Terminando servidor
+[INFO] 22:21:45:448 Servidor/(6514:6514): Servidor listo para recibir al cliente
+[INFO] 22:22:03:383 Servidor/(6514:6514): Se conecto un cliente!
+[ERROR] 22:22:03:466 Servidor/(6514:6514): el cliente se desconecto. Terminando servidor
+[INFO] 22:25:58:158 Servidor/(6678:6678): Servidor listo para recibir al cliente
+[INFO] 22:40:02:091 Servidor/(6678:6678): Se conecto un cliente!
+[INFO] 22:40:02:091 Servidor/(6678:6678): Me llego el mensaje valor
+[INFO] 22:40:02:091 Servidor/(6678:6678): Me llegaron los siguientes valores:
+
+[INFO] 22:40:02:091 Servidor/(6678:6678): tp0.log
+[ERROR] 22:40:02:175 Servidor/(6678:6678): el cliente se desconecto. Terminando servidor
+[INFO] 22:40:57:716 Servidor/(7027:7027): Servidor listo para recibir al cliente
+[INFO] 22:41:02:820 Servidor/(7027:7027): Se conecto un cliente!
+[INFO] 22:41:02:820 Servidor/(7027:7027): Me llego el mensaje valor
+[INFO] 22:41:02:820 Servidor/(7027:7027): Me llegaron los siguientes valores:
+
+[INFO] 22:41:02:820 Servidor/(7027:7027): INFO
+[ERROR] 22:41:02:899 Servidor/(7027:7027): el cliente se desconecto. Terminando servidor
+[INFO] 22:53:31:464 Servidor/(8175:8175): Servidor listo para recibir al cliente
+[INFO] 22:54:36:020 Servidor/(8175:8175): Se conecto un cliente!
+[INFO] 22:54:36:021 Servidor/(8175:8175): Me llego el mensaje valor
+[INFO] 22:54:36:021 Servidor/(8175:8175): Me llegaron los siguientes valores:
+
+[INFO] 22:54:36:021 Servidor/(8175:8175): [INFO] 01:29:05:875 tp0/(4654:4654): Soy un Log
+[INFO] 01:33:33:877 tp0/(5056:5056): Soy un Log
+[INFO] 01:34:20:572 tp0/(5136:5136): Soy un Log
+[INFO] 01:34:32:773 tp0/(5175:5175): Soy un Log
+[INFO] 01:34:43:635 tp0/(5215:5215): Soy un Log
+[INFO] 01:34:43:635 tp0/(5215:5215): El valor obtenido es valor
+[INFO] 01:35:01:070 tp0/(5299:5299): Soy un Log
+[INFO] 01:35:01:070 tp0/(5299:5299): El valor obtenido es valor
+[INFO] 01:39:33:926 tp0/(5645:5645): Soy un Log
+[INFO] 01:39:33:926 tp0/(5645:5645): El valor obtenido es valor
+[INFO] 01:39:36:489 tp0/(5645:5645): El mensaje ingresado por consola es hola
+
+[INFO] 01:39:40:389 tp0/(5645:5645): El mensaje ingresado por consola es opaospas
+
+[INFO] 01:39:44:804 tp0/(5645:5645): El mensaje ingresado por consola es 
+
+[INFO] 01:40:51:193 tp0/(5714:5714): Soy un Log
+[INFO] 01:40:51:193 tp0/(5714:5714): El valor obtenido es valor
+[INFO] 01:40:52:871 tp0/(5714:5714): El mensaje ingresado por consola es hola
+
+[INFO] 01:40:55:057 tp0/(5714:5714): El mensaje ingresado por consola es como va
+
+[INFO] 01:40:58:181 tp0/(5714:5714): El mensaje ingresado por consola es todo bien?
+
+[INFO] 01:41:00:281 tp0/(5714:5714): El mensaje ingresado por consola es me alegro
+
+[INFO] 01:41:01:022 tp0/(5714:5714): El mensaje ingresado por consola es 
+
+[INFO] 01:41:21:743 tp0/(5755:5755): Soy un Log
+[INFO] 01:41:21:743 tp0/(5755:5755): El valor obtenido es valor
+[INFO] 01:41:23:811 tp0/(5769:5769): Soy un Log
+[INFO] 01:41:23:811 tp0/(5769:5769): El valor obtenido es valor
+[INFO] 01:41:28:802 tp0/(5798:5798): Soy un Log
+[INFO] 01:41:28:803 tp0/(5798:5798): El valor obtenido es valor
+[INFO] 01:41:35:642 tp0/(5833:5833): Soy un Log
+[INFO] 01:41:35:642 tp0/(5833:5833): El valor obtenido es valor
+[INFO] 01:41:37:131 tp0/(5833:5833): El mensaje ingresado por consola es 
+
+[INFO] 01:41:54:624 tp0/(5875:5875): Soy un Log
+[INFO] 01:41:54:624 tp0/(5875:5875): El valor obtenido es valor
+[INFO] 01:41:56:034 tp0/(5875:5875): El mensaje ingresado por consola es hola
+
+[INFO] 01:41:58:939 tp0/(5875:5875): El mensaje ingresado por consola es todo bien?
+
+[INFO] 01:42:00:251 tp0/(5875:5875): El mensaje ingresado por consola es chau
+
+[INFO] 01:42:17:285 tp0/(5916:5916): Soy un Log
+[INFO] 01:42:17:285 tp0/(5916:5916): El valor obtenido es valor
+[INFO] 01:57:11:134 tp0/(7104:7104): Soy un Log
+[INFO] 01:57:11:134 tp0/(7104:7104): El valor obtenido es valor
+[INFO] 01:57:13:913 tp0/(7104:7104): El mensaje ingresado por consola es hola
+
+[INFO] 02:06:00:757 tp0/(7789:7789): Soy un Log
+[INFO] 02:06:00:757 tp0/(7789:7789): El valor obtenido es valor
+[INFO] 02:06:03:015 tp0/(7789:7789): El mensaje ingresado por consola es hola
+
+[INFO] 02:07:42:961 tp0/(7838:7838): Soy un Log
+[INFO] 02:07:42:961 tp0/(7838:7838): El valor obtenido es valor
+[INFO] 02:07:48:321 tp0/(7850:7850): Soy un Log
+[INFO] 02:07:48:321 tp0/(7850:7850): El valor obtenido es valor
+[INFO] 17:57:43:006 tp0/(2606:2606): Soy un Log
+[INFO] 17:57:43:006 tp0/(2606:2606): El valor obtenido es valor
+[INFO] 17:59:09:757 tp0/(2606:2606): El mensaje ingresado por consola es hola
+
+[INFO] 18:01:55:300 tp0/(3102:3102): Soy un Log
+[INFO] 18:01:55:300 tp0/(3102:3102): El valor obtenido es valor
+[INFO] 18:02:21:335 tp0/(3114:3114): Soy un Log
+[INFO] 18:02:21:336 tp0/(3114:3114): El valor obtenido es valor
+[INFO] 18:02:31:421 tp0/(3130:3130): Soy un Log
+[INFO] 18:02:31:421 tp0/(3130:3130): El valor obtenido es valor
+[INFO] 21:14:20:709 tp0/(4365:4365): Soy un Log
+[INFO] 21:14:20:712 tp0/(4365:4365): El valor obtenido es valor
+[INFO] 21:14:22:394 tp0/(4365:4365): El mensaje ingresado por consola es asd
+
+[INFO] 21:23:36:995 tp0/(4788:4788): Soy un Log
+[INFO] 21:23:36:995 tp0/(4788:4788): El valor obtenido es valor
+[INFO] 21:26:48:413 tp0/(4907:4907): Soy un Log
+[INFO] 21:26:48:413 tp0/(4907:4907): El valor obtenido es valor
+[INFO] 21:27:02:916 tp0/(4937:4937): Soy un Log
+[INFO] 21:27:02:916 tp0/(4937:4937): El valor obtenido es valor
+[INFO] 21:27:12:603 tp0/(4937:4937): El mensaje ingresado por consola es hola
+
+[INFO] 21:45:35:903 tp0/(5277:5277): Soy un Log
+[INFO] 21:45:35:903 tp0/(5277:5277): El valor obtenido es valor
+[INFO] 22:10:30:569 tp0/(5882:5882): Soy un Log
+[INFO] 22:10:30:569 tp0/(5882:5882): El valor obtenido es valor
+[INFO] 22:10:36:953 tp0/(5882:5882): El mensaje ingresado por consola es hola
+
+[INFO] 22:16:59:218 tp0/(6099:6099): Soy un Log
+[INFO] 22:16:59:218 tp0/(6099:6099): El valor obtenido es valor
+[INFO] 22:17:01:285 tp0/(6099:6099): El mensaje ingresado por consola es hola
+
+[INFO] 22:18:05:308 tp0/(6224:6224): Soy un Log
+[INFO] 22:18:05:308 tp0/(6224:6224): El valor obtenido es valor
+[INFO] 22:19:24:204 tp0/(6358:6358): Soy un Log
+[INFO] 22:19:24:204 tp0/(6358:6358): El valor obtenido es valor
+[INFO] 22:19:26:550 tp0/(6358:6358): El mensaje ingresado por consola es hola
+
+[INFO] 22:21:16:580 tp0/(6495:6495): Soy un Log
+[INFO] 22:21:16:580 tp0/(6495:6495): El valor obtenido es valor
+[INFO] 22:21:18:942 tp0/(6495:6495): El mensaje ingresado por consola es hola
+
+[INFO] 22:21:49:046 tp0/(6543:6543): Soy un Log
+[INFO] 22:21:49:046 tp0/(6543:6543): El valor obtenido es valor
+[INFO] 22:39:51:508 tp0/(6956:6956): Soy un Log
+[INFO] 22:39:51:508 tp0/(6956:6956): El valor obtenido es valor
+[INFO] 22:40:00:134 tp0/(6956:6956): El mensaje ingresado por consola es hola
+
+[INFO] 22:40:48:992 tp0/(7011:7011): Soy un Log
+[INFO] 22:40:48:992 tp0/(7011:7011): El valor obtenido es valor
+[INFO] 22:41:01:429 tp0/(7041:7041): Soy un Log
+[INFO] 22:41:01:429 tp0/(7041:7041): El valor obtenido es valor
+[INFO] 22:54:31:584 tp0/(8416:8416): Soy un Log
+[INFO] 22:54:31:584 tp0/(8416:8416): El valor obtenido es valor
+[INFO] 22:54:34:985 tp0/(8416:8416): El mensaje ingresado por consola es goaasdla
+
+A»
+[ERROR] 22:54:36:022 Servidor/(8175:8175): el cliente se desconecto. Terminando servidor
+[INFO] 23:03:14:409 Servidor/(2531:2531): Servidor listo para recibir al cliente
+[INFO] 23:03:27:303 Servidor/(2531:2531): Se conecto un cliente!
+[INFO] 23:03:27:303 Servidor/(2531:2531): Me llego el mensaje valor
+[INFO] 23:03:27:303 Servidor/(2531:2531): Me llegaron los siguientes valores:
+
+[INFO] 23:03:27:303 Servidor/(2531:2531): [INFO] 23:03:17:050 tp0/(2544:2544): Soy un Log
+[INFO] 23:03:17:050 tp0/(2544:2544): El valor obtenido es valor
+[INFO] 23:03:24:879 tp0/(2544:2544): El mensaje ingresado por consola es Mensajes del log
+
+
+[ERROR] 23:03:27:304 Servidor/(2531:2531): el cliente se desconecto. Terminando servidor
+[INFO] 23:08:46:654 Servidor/(2855:2855): Servidor listo para recibir al cliente
+[INFO] 23:08:53:536 Servidor/(2855:2855): Se conecto un cliente!
+[INFO] 23:08:53:536 Servidor/(2855:2855): Me llego el mensaje valor
+[ERROR] 23:09:05:960 Servidor/(2855:2855): el cliente se desconecto. Terminando servidor
+[INFO] 23:09:35:416 Servidor/(2915:2915): Servidor listo para recibir al cliente
+[INFO] 23:09:39:010 Servidor/(2915:2915): Se conecto un cliente!
+[INFO] 23:09:39:010 Servidor/(2915:2915): Me llego el mensaje valor
+[INFO] 23:09:45:404 Servidor/(2915:2915): Me llegaron los siguientes valores:
+
+[INFO] 23:09:45:404 Servidor/(2915:2915): PZ¸xU
+[ERROR] 23:09:45:404 Servidor/(2915:2915): el cliente se desconecto. Terminando servidor
+[INFO] 23:10:24:553 Servidor/(2982:2982): Servidor listo para recibir al cliente
+[INFO] 23:10:31:412 Servidor/(2982:2982): Se conecto un cliente!
+[INFO] 23:10:31:413 Servidor/(2982:2982): Me llego el mensaje valor
+[INFO] 23:10:37:854 Servidor/(2982:2982): Me llegaron los siguientes valores:
+
+[INFO] 23:10:37:854 Servidor/(2982:2982): P¥_8´U
+[ERROR] 23:10:37:854 Servidor/(2982:2982): el cliente se desconecto. Terminando servidor
+[INFO] 23:17:44:745 Servidor/(3494:3494): Servidor listo para recibir al cliente
+[INFO] 23:18:43:454 Servidor/(3494:3494): Se conecto un cliente!
+[INFO] 23:18:43:454 Servidor/(3494:3494): Me llego el mensaje valor
+[ERROR] 23:19:12:145 Servidor/(3494:3494): el cliente se desconecto. Terminando servidor
+[INFO] 23:19:21:149 Servidor/(3685:3685): Servidor listo para recibir al cliente
+[INFO] 23:19:24:026 Servidor/(3685:3685): Se conecto un cliente!
+[INFO] 23:19:24:026 Servidor/(3685:3685): Me llego el mensaje valor
+[INFO] 23:19:32:653 Servidor/(3685:3685): Me llegaron los siguientes valores:
+
+[INFO] 23:19:32:653 Servidor/(3685:3685): hola como
+[ERROR] 23:19:32:653 Servidor/(3685:3685): el cliente se desconecto. Terminando servidor
+[INFO] 23:19:48:702 Servidor/(3711:3711): Servidor listo para recibir al cliente
+[INFO] 23:19:51:238 Servidor/(3711:3711): Se conecto un cliente!
+[INFO] 23:19:51:238 Servidor/(3711:3711): Me llego el mensaje valor
+[INFO] 23:19:56:620 Servidor/(3711:3711): Me llegaron los siguientes valores:
+
+[INFO] 23:19:56:620 Servidor/(3711:3711): hola como
+[ERROR] 23:19:56:620 Servidor/(3711:3711): el cliente se desconecto. Terminando servidor
+[INFO] 23:20:39:670 Servidor/(3847:3847): Servidor listo para recibir al cliente
+[INFO] 23:20:43:781 Servidor/(3847:3847): Se conecto un cliente!
+[INFO] 23:20:43:781 Servidor/(3847:3847): Me llego el mensaje valor
+[INFO] 23:20:51:754 Servidor/(3847:3847): Me llegaron los siguientes valores:
+
+[INFO] 23:20:51:754 Servidor/(3847:3847): aaaaaaaaa
+[ERROR] 23:20:51:754 Servidor/(3847:3847): el cliente se desconecto. Terminando servidor
+[INFO] 23:23:17:770 Servidor/(3978:3978): Servidor listo para recibir al cliente
+[INFO] 23:23:21:769 Servidor/(3978:3978): Se conecto un cliente!
+[INFO] 23:23:21:769 Servidor/(3978:3978): Me llego el mensaje valor
+[INFO] 23:23:41:611 Servidor/(3978:3978): Me llegaron los siguientes valores:
+
+[INFO] 23:23:41:611 Servidor/(3978:3978): 
+[ERROR] 23:23:41:611 Servidor/(3978:3978): el cliente se desconecto. Terminando servidor
+[INFO] 23:25:08:717 Servidor/(4080:4080): Servidor listo para recibir al cliente
+[INFO] 23:25:11:002 Servidor/(4080:4080): Se conecto un cliente!
+[INFO] 23:25:11:002 Servidor/(4080:4080): Me llego el mensaje valor
+[INFO] 23:25:16:393 Servidor/(4080:4080): Me llegaron los siguientes valores:
+
+[INFO] 23:25:16:393 Servidor/(4080:4080): hola como vaaaaaaaaaaaaa
+[ERROR] 23:25:16:393 Servidor/(4080:4080): el cliente se desconecto. Terminando servidor
